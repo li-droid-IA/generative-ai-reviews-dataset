@@ -78,3 +78,12 @@ This project demonstrates a complete data analysis workflow, including data coll
 ## 📌 Author
 
 Project developed as part of a data analysis and AI learning journey using Python.
+# AI and the Future of Work: Sentiment Analysis
+
+## Sentiment Distribution
+
+![Sentiment Distribution](images/sentiment_distribution.png)
+
+## Main Topics Distribution
+
+![Main Topics Distribution](images/main_topics_distribution.png)
